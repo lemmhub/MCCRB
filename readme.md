@@ -18,24 +18,32 @@ Dicha librería abarca temas como son:
  - Probabilidad
 
 ## Flujo de trabajo
-```mermaid
-graph LR
-A[Descargar librería de Github] --> B[Importar librería]
-B --> D{Revisar las funciones}
-```
+
 La finalidad del presente repositorio es crear una librería que pueda importarse de manera sencilla para mantenerse como testigo de lo visto durante la clase y hacer uso de ella para futuras aplicaciones. Para lo cuál se deben seguir los pasos marcados a continuación.
 
 1. Clonar la librería
 
-'''git clone https://github.com/lemmhub/MCCRB.git '''
-2. Importar la librería en el programar a utilizar
+```
+git clone https://github.com/lemmhub/MCCRB.git 
+```
 
-	from MCCRB import dijkstra as d
+2. Importar la librería en el programar a utilizar
+	```python
+	from MCCRB import dijkstra as d 
+	```
+
 
 3.  El IDE utilizado desplegará todas las funciones correspondientes al archivo dijkstra.py y mostrará las características de cada una de ellas.
 
+### Funciones encontradas en dijkstra
+![alt text](https://github.com/[username]/[reponame]/imagesmd/funciones.jpg?raw=true)
+
+### Implementación de la función search
+![alt text](https://github.com/[username]/[reponame]/imagesmd/implementacion.jpg?raw=true)
 
 
 
 ##  Estructura del código
 Cada código está marcado con un cabezal que explica cada una de la funciones utilizadas, además, se pueden encontrar comentarios explicando las líneas más relevantes dentro de las funciones.
+
+Se recomienda al usuario explorar a fondo los códigos para conocer su correcto funcionamiento y aplicar las funciones como mejor le convengan
