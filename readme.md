@@ -36,7 +36,8 @@ git clone https://github.com/lemmhub/MCCRB.git
 3.  El IDE utilizado desplegará todas las funciones correspondientes al archivo dijkstra.py y mostrará las características de cada una de ellas.
 
 ### Funciones encontradas en dijkstra
-![alt text](https://github.com/[username]/[reponame]/imagesmd/funciones.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/imagesmd/funciones.jpg?raw=true)
+
 
 ### Implementación de la función search
 ![alt text](https://github.com/[username]/[reponame]/imagesmd/implementacion.jpg?raw=true)
