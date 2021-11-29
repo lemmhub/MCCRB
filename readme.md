@@ -37,7 +37,7 @@ git clone https://github.com/lemmhub/MCCRB.git
 
 ### Funciones encontradas en dijkstra
 
-![alt text](https://github.com/lemmhub/MCCRB/blob/master/imagesmd/funciones.JPG =x250)
+![alt text](https://github.com/lemmhub/MCCRB/blob/master/imagesmd/funciones.JPG)
 
 
 ### Implementación de la función search
